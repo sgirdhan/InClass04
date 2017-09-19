@@ -3,9 +3,10 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.3"
+    dataBinding.enabled = true
     defaultConfig {
         applicationId "com.example.sharangirdhani.inclass04"
-        minSdkVersion 16
+        minSdkVersion 20
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"

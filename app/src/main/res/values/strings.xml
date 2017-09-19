@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">InClass04</string>
+    <string name="app_name">Password Generator</string>
+    <string name="name" />
+    <string name="nameLabel">Name</string>
+    <string name="dept" />
+    <string name="deptLabel">Dept</string>
+    <string name="age" />
+    <string name="ageLabel">Age</string>
+    <string name="zip" />
+    <string name="zipLabel">ZIP</string>
+    <string name="password">Password</string>
+    <string name="buttonThread">Generate Using Thread</string>
+    <string name="buttonAsync">Generate Using AsyncTask</string>
+    <string name="buttonClear">Clear</string>
+    <string name="buttonClose">Close</string>
+    <string name="progressLabel">Generating Passwords</string>
+    <string name="alertLabel">Choose a Password</string>
+    <string name="errName">Name not Valid</string>
+    <string name="errAge">Age not Valid</string>
+    <string name="errZIP">ZIP not Valid</string>
+    <string name="errDept">Dept not Valid</string>
+    <string name="errGen">All inputs are mandatory</string>
 </resources>
